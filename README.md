@@ -1,3 +1,3 @@
 # ileri-programlama-final
 
-Mürsel hamza yılmaz ara sınav ödevi, okul no : 22040201006
+Mürsel hamza yılmaz final sınav ödevi, okul no : 22040201006
